@@ -142,10 +142,10 @@ Eventify/
 
 | Nama | NIM |
 |--------|--------|
-| A Muh Faried | 103012300060 |
-| Made Ayu Canakya Wiguna Giri | 103012300161 |
 | Zaskia Amelia Nurudin | 103012400290 |
 | Ghaisan Hanifah Siregar | 103012400322 |
+| A Muh Faried | 103012300060 |
+| Made Ayu Canakya Wiguna Giri | 103012300161 |
 | Rizaldi Maulana Saputra | 103012430013 |
 | M. Dzaki Dima Khalith | 103012400422 |
 
