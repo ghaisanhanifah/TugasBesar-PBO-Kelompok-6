@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Telkom%20University/SEMESTER%204/PBO/PROJECT1/PROJECT1/web/index.jsp</file>
+            <file>file:/D:/Telkom%20University/SEMESTER%204/PBO/PROJECT1/PROJECT1/web/event-detail.jsp</file>
+            <file>file:/D:/Telkom%20University/SEMESTER%204/PBO/PROJECT1/PROJECT1/src/java/model/Event.java</file>
+            <file>file:/D:/Telkom%20University/SEMESTER%204/PBO/PROJECT1/PROJECT1/src/java/controller/EventDetailServlet.java</file>
+            <file>file:/D:/Telkom%20University/SEMESTER%204/PBO/PROJECT1/PROJECT1/src/java/model/TicketType.java</file>
+            <file>file:/D:/Telkom%20University/SEMESTER%204/PBO/PROJECT1/PROJECT1/src/java/model/PaymentMethod.java</file>
+            <file>file:/D:/Telkom%20University/SEMESTER%204/PBO/PROJECT1/PROJECT1/src/java/model/Ticket.java</file>
+            <file>file:/D:/Telkom%20University/SEMESTER%204/PBO/PROJECT1/PROJECT1/src/java/model/Participant.java</file>
+            <file>file:/D:/Telkom%20University/SEMESTER%204/PBO/PROJECT1/PROJECT1/MAIN/Event.java</file>
+            <file>file:/D:/Telkom%20University/SEMESTER%204/PBO/PROJECT1/PROJECT1/web/WEB-INF/error500.jsp</file>
+            <file>file:/D:/Telkom%20University/SEMESTER%204/PBO/PROJECT1/PROJECT1/src/java/controller/LoginServlet.java</file>
+            <file>file:/D:/Telkom%20University/SEMESTER%204/PBO/PROJECT1/PROJECT1/web/booking.jsp</file>
+            <file>file:/D:/Telkom%20University/SEMESTER%204/PBO/PROJECT1/PROJECT1/src/java/controller/EventListServlet.java</file>
+            <file>file:/D:/Telkom%20University/SEMESTER%204/PBO/PROJECT1/PROJECT1/src/java/model/Admin.java</file>
+            <file>file:/D:/Telkom%20University/SEMESTER%204/PBO/PROJECT1/PROJECT1/src/java/model/User.java</file>
+            <file>file:/D:/Telkom%20University/SEMESTER%204/PBO/PROJECT1/PROJECT1/web/admin-event-form.jsp</file>
+            <file>file:/D:/Telkom%20University/SEMESTER%204/PBO/PROJECT1/PROJECT1/src/java/controller/AdminEventServlet.java</file>
+            <file>file:/D:/Telkom%20University/SEMESTER%204/PBO/PROJECT1/PROJECT1/src/java/controller/MyTicketServlet.java</file>
+            <file>file:/D:/Telkom%20University/SEMESTER%204/PBO/PROJECT1/PROJECT1/web/myticket.jsp</file>
+            <file>file:/D:/Telkom%20University/SEMESTER%204/PBO/PROJECT1/PROJECT1/web/admin-dashboard.jsp</file>
+            <file>file:/D:/Telkom%20University/SEMESTER%204/PBO/PROJECT1/PROJECT1/web/dashboard.jsp</file>
+            <file>file:/D:/Telkom%20University/SEMESTER%204/PBO/PROJECT1/PROJECT1/web/css/dashboard.css</file>
+        </group>
+    </open-files>
+</project-private>
